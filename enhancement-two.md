@@ -12,3 +12,5 @@ Mid matches from new algorithm:
 ![Middle](Middle.png)
 Worst matches from new algorithm:
 ![Least](Least.png)
+
+I believe this enhancement met the course outcomes I originally planned to address, outcome three. This enhancement demonstrated my ability to design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. It demonstrates the use of algorithms to create an effective search filter for finding the best candidate dogs for rescue missions.
