@@ -5,10 +5,10 @@ The main improvement I made to this enhancement was developing a ranked matching
 The biggest challenge I faced was finding the most optimal weights for the ranked based sorting algorithm. After researching the most optimal dog rescue ages, filtering out unsuitable outcome types, and playing with the weights I eventually found the best balance between the highest ranked dogs, lowest ranked dogs, and anything in between. Here are some screenshots that showcase different rankings based off the new algorithm and original.
 
 Exact match from original project:
-![[Exact.png]]
+![Exact](Exact.png)
 Best matches from new algorithm:
-![[Best.png]]
+![Best](Best.png)
 Mid matches from new algorithm:
-![[Middle.png]]
+![Middle](Middle.png)
 Worst matches from new algorithm:
-![[Least.png]]
+![Least](Least.png)
