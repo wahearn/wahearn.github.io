@@ -7,3 +7,5 @@ The main improvement I made was reorganizing the project into a modular design. 
 The end result is an improved version shown running locally on my machine. The original project ran on a Jupyter notebook so the database and original files had to be migrated over to run locally. 
 
 ![EnhancementOneDemo](EnhancementOneDemo.png)
+
+I believe this enhancement met the course outcomes I originally planned to address, outcome four. This enhancement demonstrated my ability to design and evaluate a solution using well-founded and innovative techniques, skills, and tools. It demonstrates the use of modular design, separate responsibilities, validation, and error handling. The enhancement also supports the security focused outcome because I removed hard-coded credentials, limited filter values, added validation to data before processing it, and protected database update and delete methods from accidentally affecting every record. By redesigning the file layout I now have a better understanding of how to add features and security enhancements without the codebase becoming too difficult to maintain.
