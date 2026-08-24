@@ -6,4 +6,4 @@ The main improvement I made was reorganizing the project into a modular design. 
 
 The end result is an improved version shown running locally on my machine. The original project ran on a Jupyter notebook so the database and original files had to be migrated over to run locally. 
 
-![[EnhancementOneDemo.png]]
+![EnhancementOneDemo](EnhancementOneDemo.png)
